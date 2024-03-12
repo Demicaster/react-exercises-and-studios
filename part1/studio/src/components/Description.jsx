@@ -22,8 +22,8 @@ class RecipeDescription extends React.Component {
         return (
          <div> 
             <div>
-                 <h1>Recipe Title</h1>
-             <p>Short recipe description</p>
+                 <h1>Pad See Ew</h1>
+             <p>In Thai known as Soy sauce stir fry it is an easy street dish common in thailand.</p>
    </div>
    <RecipeAuthor />
 </div>
